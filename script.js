@@ -2,11 +2,11 @@ const projetos = [
   {
     nome: "Projeto 1",
     descricao: "Meu primeiro projeto em HTML",
-    link: "#"
+    link: "https://github.com/cieciasousa/meu-portfolio.git"
   },
   {
     nome: "Projeto 2",
-    descricao: "Projeto com CSS",
+    descricao: "Projeto Portfolio - React",
     link: "#"
   },
 ];
