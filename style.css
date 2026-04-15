@@ -57,6 +57,16 @@ footer {
   color: white;
 }
 
+.foto-perfil {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%; /* deixa redonda */
+  object-fit: cover; /* evita deformar */
+  display: block;
+  margin: 20px auto; /* centraliza */
+  border: 3px solid #333; /* opcional */
+}
+
 /* Responsividade */
 @media (max-width: 600px) {
   nav {
